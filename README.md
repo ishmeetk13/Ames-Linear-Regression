@@ -15,4 +15,5 @@ While building this, the model's Mean Squared Error (MSE) exploded to $10^{19}$ 
 
 
 * **Dataset:** https://www.kaggle.com/datasets/saurabh0/ames-housing-sales
+* **Open in Colab:** https://colab.research.google.com/github/ishmeetk13/Ames-Linear-Regression/blob/main/Ames_Housing_Sales_Prediction.ipynb
 * **View on Kaggle:** https://www.kaggle.com/code/ishmeetk13/ames-housing-sales-prediction
